@@ -1,7 +1,11 @@
 # Investment Tracker
 
-Welcome to the **Investment Tracker** project! 
+Welcome to the **Investment Tracker** project!
+
 ## Project Structure
+
+![Project Structure Diagram](images/project_structure.png)
+
 
 The project is organised into several packages to promote clean code and adhere to best practices. Here’s a breakdown of the package structure and their responsibilities:
 
