@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Investment Tracker</string>
+    <string name="view_details">View Details</string>
+    <string name="navigate_up">Navigate Up</string>
+    <string name="principal">Principal</string>
+    <string name="value">Value</string>
+    <string name="try_again">Try Again</string>
+    <string name="error_title">Error Occurred</string>
+    <string name="error_msg">Something went wrong. Please try again.</string>
+    <string name="go_home">Go Home</string>
+    <string name="invalid_investment_id">Invalid Investment Id</string>
+    <string name="invalid_id_msg">The given investment id is not valid.</string>
+</resources>
